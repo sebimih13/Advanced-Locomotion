@@ -1,3 +1,2 @@
 # Advanced-Locomotion
-Made with UE 4.27.1 C++
-Inspired by Advanced Locomotion System V4
+Made with UE 4.27.1 C++  inspired by Advanced Locomotion System V4
